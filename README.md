@@ -1,2 +1,3 @@
 # jwt-auth-service
-Registration and authorization - Creating a mechanism for registration, login with JWT!
+# badasya
+Registration and authorization - Creating a mechanism for registration, login with JWT using Node.js & Express.js!
